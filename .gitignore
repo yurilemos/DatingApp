@@ -487,3 +487,5 @@ $RECYCLE.BIN/
 API/appsettings.json
 API/datingapp.db
 API/Data/Migrations
+
+.vscode
